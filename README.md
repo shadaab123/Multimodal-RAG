@@ -1,4 +1,4 @@
-Multimodal AI Agent with Llama 3.2
+##Multimodal AI Agent with Llama 3.2
 Overview
 This project implements a multimodal AI system that enables users to interact with complex document and visual data through natural language. It combines the power of Llama-3.2-3B (Small Language Model) and Llama-3.2-11B-Vision (Vision Language Model) to intelligently process, index, and respond to queries across diverse data formats.
 
